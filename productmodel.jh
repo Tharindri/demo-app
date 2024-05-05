@@ -1,0 +1,8 @@
+
+entity Product {
+	title String
+    description String
+    rating String
+    url String
+}
+
